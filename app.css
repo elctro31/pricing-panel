@@ -54,6 +54,7 @@ html {
 
 body {
   background-color: #b9bdc2;
+  display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
